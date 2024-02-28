@@ -59,8 +59,8 @@ Aproveite a gestão simplificada e eficiente oferecida pelo Sistema Net Shoes!
 ## Team - Grupo 8
 * Alexandre Moreira - Scrum Master
 * Heric Silva - Desenvolvedor
-* Rian Rodrigues
-* Cesar Luna
+* Rian Rodrigues - Desenvolvedor
+* Cesar Luna - Desenvolvedor
 
 ## Agradecimentos
 
